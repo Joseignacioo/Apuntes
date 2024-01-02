@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "ad0df6265666b2af",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c88d471a80c470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf584ace37d5e610",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ea70743babdfefe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/DJANGO/DJANGO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24c67beda2b4d7f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f27daf9b82f299f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "957cb1a99252d49b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc594781ddad477d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "689550e270c154aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8880fbbe8c58733d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a4778e9320caf32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05764da5bafb8985",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/DJANGO/DJANGO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf7d4f3597e27f80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/DJANGO/DJANGO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8981cbef6edcab97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdb3857e1480b898",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/DJANGO/DJANGO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3ea70743babdfefe",
+  "lastOpenFiles": [
+    "Pasted image 20231121061712.png",
+    "Pasted image 20231121061637.png",
+    "Pasted image 20231121061249.png",
+    "Pasted image 20231121055813.png",
+    "Pasted image 20231121055446.png",
+    "Pasted image 20231121054550.png",
+    "Pasted image 20231121054523.png",
+    "Pasted image 20231121054243.png",
+    "Pasted image 20231121053637.png",
+    "Pasted image 20231121042005.png",
+    "Pasted image 20231121040848.png",
+    "Python/DJANGO/DJANGO.md",
+    "Python/DJANGO",
+    "Ciencia de Datos/CIENCIA DE DATOS.md",
+    "Seguridad/Seguridad.md",
+    "WEB/FRONTEND/Diseño dashboard/Sin título.md",
+    "Python/Python básico.md",
+    "SQL/CONSULTA BD.md",
+    "SQL/PROGRAMACION BD.md",
+    "JS/JAVASCRIPT.md",
+    "git",
+    "JS",
+    "Python/img",
+    "WEB/FRONTEND/Diseño home/DISEÑO HOME HTML AND CSS.md",
+    "WEB/BACKEND",
+    "WEB/FRONTEND",
+    "WEB/FRONTEND/Diseño pago",
+    "WEB/FRONTEND/Diseño dashboard",
+    "WEB/FRONTEND/Diseño catalogo",
+    "WEB/FRONTEND/Diseño login",
+    "2023-10-13.md",
+    "Sin título.canvas",
+    "Ciencia de Datos/Sin título/Sin título.canvas",
+    "Gestion/Gestión.md",
+    "Sin título/Sin título.md"
+  ]
+}

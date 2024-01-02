@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "434bda24886f8211",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23b25d44f3baef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2933b23b0a06b99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/SQL/CONSULTA BD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b1c92fcf2107405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/JS/JAVASCRIPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5553bfed64893f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "419218e734243f81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73671159dfc83b00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41a751458d07eceb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba854f7702645f52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "953a3dda89b7ef45",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e00e6e05229df02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "404c77f01636bb72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "APUNTES/JS/JAVASCRIPT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b514c8f3bf2f0ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "APUNTES/JS/JAVASCRIPT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9f069c8c33e7c66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f2814739066e60a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APUNTES/JS/JAVASCRIPT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "8b1c92fcf2107405",
+  "lastOpenFiles": [
+    "APUNTES/SQL/PROGRAMACION BD.md",
+    "APUNTES/Python/DJANGO/DJANGO.md",
+    "APUNTES/Math/Estadística I.md",
+    "APUNTES/Math/img/Pasted image 20231224185203.png",
+    "APUNTES/Math/img/Pasted image 20231224184611.png",
+    "Pasted image 20231224184600.png",
+    "Pasted image 20231224184420.png",
+    "APUNTES/Math/img/Pasted image 20231224184337.png",
+    "APUNTES/Math/img/Pasted image 20231224184049.png",
+    "Pasted image 20231224184210.png",
+    "APUNTES/Math/img/Pasted image 20231224182621.png",
+    "APUNTES/Math/img/Pasted image 20231224182555.png",
+    "APUNTES/Math/img/Pasted image 20231224182100.png",
+    "APUNTES/Math/img",
+    "APUNTES/Python/Python introduction/Python básico.md",
+    "APUNTES/Python/Ciencia de Datos/CIENCIA DE DATOS.md",
+    "APUNTES/SQL/CONSULTA BD.md",
+    "APUNTES/Math",
+    "APUNTES/JS/JAVASCRIPT.md",
+    "APUNTES/GPI/Etapa 1/Acta Constitucion.md",
+    "APUNTES/GPI/Etapa 1/1. Preparando el Inicio del proyecto.md",
+    "APUNTES/GPI/Etapa 4/Cierre del Proyecto.md",
+    "APUNTES/GPI/Etapa 4",
+    "APUNTES/GPI/Etapa 3",
+    "APUNTES/GPI/Etapa 2",
+    "APUNTES/GPI/Etapa 1",
+    "APUNTES/GPI/Etapa 3/Monitoreando y Controlando.md",
+    "APUNTES/GPI/Etapa 2/Planificando el Proyecto.md",
+    "APUNTES/GPI",
+    "Sin título.canvas",
+    "2023-12-24.md",
+    "APUNTES/Seguridad/Seguridad.md",
+    "APUNTES/WEB/FRONTEND/Diseño dashboard/Sin título.md",
+    "APUNTES/WEB/FRONTEND/Diseño home/DISEÑO HOME HTML AND CSS.md",
+    "APUNTES/Python/DJANGO/img",
+    "APUNTES/Python/Python introduction"
+  ]
+}
