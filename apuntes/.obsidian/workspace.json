@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c23b25d44f3baef7",
+        "id": "9328b1b6d5c51abf",
         "type": "tabs",
         "children": [
           {
-            "id": "2933b23b0a06b99d",
+            "id": "82d98e3fe39c7c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUNTES/SQL/CONSULTA BD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b1c92fcf2107405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APUNTES/JS/JAVASCRIPT.md",
+                "file": "APUNTES/Math/Estadística I.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUNTES/JS/JAVASCRIPT.md",
+                "file": "APUNTES/Math/Estadística I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APUNTES/JS/JAVASCRIPT.md",
+                "file": "APUNTES/Math/Estadística I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APUNTES/JS/JAVASCRIPT.md"
+                "file": "APUNTES/Math/Estadística I.md"
               }
             }
           }
@@ -159,43 +146,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8b1c92fcf2107405",
+  "active": "82d98e3fe39c7c1b",
   "lastOpenFiles": [
-    "APUNTES/SQL/PROGRAMACION BD.md",
-    "APUNTES/Python/DJANGO/DJANGO.md",
+    "Sin título.md",
     "APUNTES/Math/Estadística I.md",
-    "APUNTES/Math/img/Pasted image 20231224185203.png",
-    "APUNTES/Math/img/Pasted image 20231224184611.png",
-    "Pasted image 20231224184600.png",
-    "Pasted image 20231224184420.png",
-    "APUNTES/Math/img/Pasted image 20231224184337.png",
-    "APUNTES/Math/img/Pasted image 20231224184049.png",
-    "Pasted image 20231224184210.png",
-    "APUNTES/Math/img/Pasted image 20231224182621.png",
-    "APUNTES/Math/img/Pasted image 20231224182555.png",
-    "APUNTES/Math/img/Pasted image 20231224182100.png",
-    "APUNTES/Math/img",
-    "APUNTES/Python/Python introduction/Python básico.md",
-    "APUNTES/Python/Ciencia de Datos/CIENCIA DE DATOS.md",
-    "APUNTES/SQL/CONSULTA BD.md",
-    "APUNTES/Math",
     "APUNTES/JS/JAVASCRIPT.md",
     "APUNTES/GPI/Etapa 1/Acta Constitucion.md",
-    "APUNTES/GPI/Etapa 1/1. Preparando el Inicio del proyecto.md",
-    "APUNTES/GPI/Etapa 4/Cierre del Proyecto.md",
-    "APUNTES/GPI/Etapa 4",
-    "APUNTES/GPI/Etapa 3",
-    "APUNTES/GPI/Etapa 2",
-    "APUNTES/GPI/Etapa 1",
-    "APUNTES/GPI/Etapa 3/Monitoreando y Controlando.md",
     "APUNTES/GPI/Etapa 2/Planificando el Proyecto.md",
-    "APUNTES/GPI",
+    "APUNTES/GPI/Etapa 1/1. Preparando el Inicio del proyecto.md",
+    "APUNTES/Python/Ciencia de Datos/CIENCIA DE DATOS.md",
+    "APUNTES/Python/Python introduction/Python básico.md",
+    "APUNTES/Python/DJANGO/DJANGO.md",
+    "APUNTES/SQL/CONSULTA BD.md",
+    "APUNTES/SQL/PROGRAMACION BD.md",
+    "CACHE/SQL/CONSULTA BD",
+    "CACHE/SQL/CONSULTA BD/img/Pasted image 20231012152529.png",
+    "CACHE/SQL",
+    "CACHE/MATH/ESTADISTICA 1",
+    "CACHE/MATH/ESTADISTICA 1/img/Pasted image 20231224181814.png",
+    "CACHE/JS/IMG",
+    "CACHE/PY/INTRODUCTION",
+    "CACHE/PY/DJANGO",
+    "CACHE/PY/CIENCIA DE DATOS",
+    "CACHE/Sin título 1/Sin título.md",
+    "CACHE/PY",
+    "CACHE/MATH",
+    "CACHE/JS",
+    "CACHE/JS/IMG/Pasted image 20240102193537.png",
+    "CACHE/MATH/ESTADISTICA 1/img/Pasted image 20231224181736.png",
+    "CACHE/MATH/ESTADISTICA 1/img/Pasted image 20231224185203.png",
+    "CACHE/MATH/ESTADISTICA 1/img/Pasted image 20231224184611.png",
+    "Pasted image 20231224184600.png",
+    "Pasted image 20231224184420.png",
+    "CACHE/MATH/ESTADISTICA 1/img/Pasted image 20231224184337.png",
+    "CACHE/MATH/ESTADISTICA 1/img/Pasted image 20231224184049.png",
+    "APUNTES/GPI/Etapa 4/Cierre del Proyecto.md",
+    "APUNTES/GPI/Etapa 3/Monitoreando y Controlando.md",
     "Sin título.canvas",
     "2023-12-24.md",
     "APUNTES/Seguridad/Seguridad.md",
     "APUNTES/WEB/FRONTEND/Diseño dashboard/Sin título.md",
-    "APUNTES/WEB/FRONTEND/Diseño home/DISEÑO HOME HTML AND CSS.md",
-    "APUNTES/Python/DJANGO/img",
-    "APUNTES/Python/Python introduction"
+    "APUNTES/WEB/FRONTEND/Diseño home/DISEÑO HOME HTML AND CSS.md"
   ]
 }

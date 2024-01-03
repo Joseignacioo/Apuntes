@@ -1,15 +1,10 @@
-// ========= TIPOS DE VARIABLES ========= //
+> [!example]
+> **TIPOS DE VARIABLES**
+>   ![[Pasted image 20240102193537.png]]
+> *El tipo de variable es ==camelCase==*
+> *El tipo de variable ==let== se puede declarar y luego asignar valor*
 
-var , let, const
-
-// ========= VARIABLES ========= //
-	
-	let nombre = 'jose' #variable string
-	let edad = 20 //variable number
-	let tamaño = 1.67 //variable float
-	let sexo = true //variable boolean
-	console.log("Hola mi nombre es: "+nombre+", Mi edad es: "+edad+" años, Mido: "+tamaño+"    y soy hombre: "+ sexo)
-
+---
 
 // ========= STRING ========= //
 
